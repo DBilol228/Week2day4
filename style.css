@@ -245,3 +245,127 @@
     font-weight: 500;
     margin-top: 25px;
 }
+.header5{
+    max-width: 1200px;
+    margin: auto;
+}
+.section5{
+    width: 100%;
+    height: 525px;
+}
+.txtsection5{
+    padding-top: 7%;
+}
+.journey{
+    margin-top: 100px;
+}
+.start{
+    color: #313446;
+    font-size: 15px;
+    font-weight: 500;
+}
+.start2{
+    color: #192252;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.start3{
+    color: #313446;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+.btns{
+    display: flex;
+    margin-top: 30px;
+    gap: 30px;
+}
+.contc{
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    background-color: #192252;
+    color: white;
+    box-shadow: 0 0 20px rgba(128, 128, 128, 0.3);
+}
+.explore{
+    color: #313446;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.boxes{
+    margin-left: 750px;
+    margin-top: -250px;
+}
+.box1{
+    display: flex;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    width: 400px;
+    height: 60px;
+}
+.choose{
+    color: #192252;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 22px;
+    margin-left: 20px;
+}
+.icon{
+    border-radius: 50%;
+    background-color: #FFECE2;
+    color: #FF620A;
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+.box2{
+    display: flex;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    width: 400px;
+    height: 100px;
+    margin-top: 30px;
+}
+.choose2{
+    color: gray;
+    font-weight: 500;
+    font-size: 12px;
+}
+.icon2{
+    border-radius: 50%;
+    background-color: #FF620A;
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.box3{
+    display: flex;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    width: 400px;
+    height: 60px;
+    margin-top: 30px;
+}
+.icon3{
+    border-radius: 50%;
+    background-color: #FFECE2;
+    color: #FF620A;
+    border: none;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 175px;
+    margin-top: 10px;
+}
