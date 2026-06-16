@@ -129,3 +129,41 @@
     box-shadow: 0 0 20px rgba(128, 128, 128, 0.3);
     margin-top: 20px;
 }
+.header3{
+    width: 1200px;
+    margin: auto;
+}
+.section3{
+    width: 100%;
+    height: 650px;
+}
+.txtsection3{
+    padding-top: 7%;
+}
+.active{
+    color: #192252;
+    font-size: 30px;
+    font-weight: 600;
+}
+.active2{
+    color: #313446;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-top: 20px;
+}
+.cabin{
+    margin-left: 820px;
+    margin-top: -200px;
+}
+.cabin img{
+    width: 300px;
+}
+.foodd{
+    width: 300px;
+    margin-top: 30px;
+}
+.cabin2{
+    margin-left: 600px;
+    margin-top: -200px;
+}
