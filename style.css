@@ -422,3 +422,151 @@
     border: none;
     margin-left: 10px;
 }
+.footer {
+    background-color: #0B265A;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    max-width: 1200px;
+    margin: auto;
+}
+.section7 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.left {
+    width: 350px;
+}
+.logo {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.text1 {
+    color: #8fa0ba;
+    font-size: 16px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+.text2 {
+    color: #8fa0ba;
+    font-size: 16px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+.text3 {
+    color: #8fa0ba;
+    font-size: 16px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+.socials {
+    display: flex;
+    margin-left: 40px;
+}
+.photo1 {
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+}
+.photo2 {
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+}
+.photo3 {
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+}
+.right {
+    display: flex;
+    justify-content: space-between;
+    width: 650px;
+}
+.column1 {
+    width: 180px;
+}
+.column2 {
+    width: 180px;
+}
+.column3 {
+    width: 180px;
+}
+.title1 {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.title2 {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.title3 {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.link1 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link2 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link3 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link4 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link5 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link6 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link7 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link8 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.link9 {
+    color: #8fa0ba;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
